@@ -91,7 +91,6 @@ extern const char kContextIsolation[];
 extern const char kGuestInstanceID[];
 extern const char kOpenerID[];
 extern const char kScrollBounce[];
-extern const char kHiddenPage[];
 extern const char kNodeIntegrationInWorker[];
 
 extern const char kWidevineCdmPath[];
