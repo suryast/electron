@@ -1,10 +1,10 @@
 # Tentang Electron
 
-[Elektron] (https://electron.atom.io) adalah sebuah *open source library* yang dikembangkan oleh GitHub untuk membangun aplikasi desktop cross-platform dengan HTML, CSS, dan JavaScript. Elektron mencapai hal ini dengan menggabungkan [Chromium] (https://www.chromium.org/Home) dan [Node.js] (https://nodejs.org) ke dalam satu runtime dan aplikasi dapat dikemas untuk Mac, Windows, Dan Linux.
+[Elektron](https://electron.atom.io) adalah sebuah *open source library* yang dikembangkan oleh GitHub untuk membangun aplikasi desktop cross-platform dengan HTML, CSS, dan JavaScript. Elektron mencapai hal ini dengan menggabungkan [Chromium](https://www.chromium.org/Home) dan [Node.js](https://nodejs.org) ke dalam satu runtime dan aplikasi dapat dikemas untuk Mac, Windows, Dan Linux.
 
-Elektron dimulai pada tahun 2013 sebagai kerangka di mana [Atom] (https://atom.io), editor teks GitHub yang dapat diretas, akan dibangun. Keduanya dibuat menjadi *open source* pada musim semi tahun 2014.
+Elektron dimulai pada tahun 2013 sebagai kerangka di mana [Atom](https://atom.io), editor teks GitHub yang dapat diretas, akan dibangun. Keduanya dibuat menjadi *open source* pada musim semi tahun 2014.
 
-Sejak itu Electron menjadi alat populer yang digunakan oleh pengembang open source, startups, dan perusahaan mapan. [Lihat siapa yang membangun Elektron] (https://electron.atom.io/apps/).
+Sejak itu Electron menjadi alat populer yang digunakan oleh pengembang open source, startups, dan perusahaan mapan. [Lihat siapa yang membangun Elektron](https://electron.atom.io/apps/).
 
 Baca terus untuk mengetahui lebih lanjut tentang kontributor dan pelepasan Elektron atau mulai membangun dengan Elektron di [Panduan Mulai Cepat](quick-start.md).
 
