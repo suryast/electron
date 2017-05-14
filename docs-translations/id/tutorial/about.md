@@ -50,7 +50,7 @@ Berikut adalah tonggak sejarah dalam sejarah Elektron.
 | --- | --- |
 | ** April 2013 ** | [Atom Shell dimulai](https://github.com/electron/electron/commit/6ef8875b1e93787fa9759f602e7880f28e8e6b45). |
 | ** Mei 2014 ** | [Atom Shell terbuka sumber](http://blog.atom.io/2014/05/06/atom-is-now-open-source.html). |
-| ** April 2015 ** | [Atom Shell dinamai ulang Electron] (https://github.com/electron/electron/pull/1389). |
-| ** Mei 2016 ** | [Elektron melepaskan `v1.0.0`] (https://electron.atom.io/blog/2016/05/11/electron-1-0). |
-| ** Mei 2016 ** | [Aplikasi elektron yang kompatibel dengan Mac App Store] (https://electron.atom.io/docs/tutorial/mac-app-store-submission-guide). |
-| ** Agustus 2016 ** | [Dukungan Windows Store untuk aplikasi Elektron] (https://electron.atom.io/docs/tutorial/windows-store-guide). |
+| ** April 2015 ** | [Atom Shell dinamai ulang Electron](https://github.com/electron/electron/pull/1389). |
+| ** Mei 2016 ** | [Elektron melepaskan `v1.0.0`](https://electron.atom.io/blog/2016/05/11/electron-1-0). |
+| ** Mei 2016 ** | [Aplikasi elektron yang kompatibel dengan Mac App Store](https://electron.atom.io/docs/tutorial/mac-app-store-submission-guide). |
+| ** Agustus 2016 ** | [Dukungan Windows Store untuk aplikasi Elektron](https://electron.atom.io/docs/tutorial/windows-store-guide). |
